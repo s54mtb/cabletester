@@ -23,6 +23,9 @@ PDF for home made PCB with toner transfer (multiple and single PCB) is available
 ## Software
 Initial project is prepared with free keil uVision for stm32f0 family.
 
+### Downloading firmware
+There is no need to use any IDE or programming adapter to download the firmware. It can be done via serial bootloader. Detailed instructions [are here](https://github.com/s54mtb/cabletester/blob/main/SW/FWdownload.md).
+
 ## Housing
 Work in progress.
 
