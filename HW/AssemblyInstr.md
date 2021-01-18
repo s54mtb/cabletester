@@ -11,3 +11,6 @@ Two wire bridges are required (for single sided PCB):
 ![Two wire bridges](https://raw.githubusercontent.com/s54mtb/cabletester/main/HW/WIRES.JPG)
 
 Green connects anodes of the TVS diodes to ground. Red connects selection jumpers to HB signal. 
+
+Finished master module: 
+![Finished tester](https://raw.githubusercontent.com/s54mtb/cabletester/main/img/tester.jpg)
