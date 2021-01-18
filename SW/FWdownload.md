@@ -28,6 +28,8 @@ Three connections are required between USB/UART interface and cable tester:
 * Green wire (Rx un USB/UART interface), connect to JS2 (PA9/PA11)
 * Yellow wire (Tx on USB/UART interface), connect to JS1 (PA10/PA12)
 
+![serial connection](https://raw.githubusercontent.com/s54mtb/cabletester/main/img/bootloadinterface.jpg)
+
 Now power-up the circuit and connect serial interface to USB port. 
 
 ### Load the software
