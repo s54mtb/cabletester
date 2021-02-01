@@ -61,3 +61,8 @@ Remove power from the device.
 Remove jumper JB and UART interface. Place jumper to select the number of channels. 
 
 Power the device, connect the cable and test the operation. 
+
+
+# Alternative
+
+Use ST-link (integrated on nucleo or discovery board or stand-alone) or any other SWD interface to program via SWD interface. The pinout is shown above. I tested with ST-link, nucleo and U-Link interface with success. 
